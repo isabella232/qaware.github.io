@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-    <defs>
-        <linearGradient id="background-petrol" gradientTransform="rotate(45)">
-            <stop offset="0%" stop-color="#004a78 "/>
-            <stop offset="100%" stop-color="#009bb4"/>
-        </linearGradient>
-    </defs>
-    <rect id="background" x="0" y="0" width="200" height="200" rx="22" ry="22" fill="url('#background-petrol')"/>
-    <circle id="q-circle" r="48" cx="100" cy="91" stroke="white" stroke-width="24" fill-opacity="0"/>
-    <rect id="q-tail" x="88" y="149" width="24" height="24" fill="white"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><defs><linearGradient id="background-petrol" gradientTransform="rotate(45)"><stop offset="0%" stop-color="#004a78"/><stop offset="100%" stop-color="#009bb4"/></linearGradient></defs><rect id="background" width="200" height="200" x="0" y="0" fill="url('#background-petrol')" rx="22" ry="22"/><circle id="q-circle" cx="100" cy="91" r="48" fill-opacity="0" stroke="#fff" stroke-width="24"/><rect id="q-tail" width="24" height="24" x="88" y="149" fill="#fff"/></svg>
